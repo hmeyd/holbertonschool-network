@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# This script modifies /etc/hosts to map localhost to 127.0.0.2 and facebook.com to 8.8.8.8
-
+# localhost is 127.0.0.2 and facebook.com is 8.8.8.8
 echo "Updating the /etc/hosts file..."
 {
     echo "127.0.0.2   localhost"
