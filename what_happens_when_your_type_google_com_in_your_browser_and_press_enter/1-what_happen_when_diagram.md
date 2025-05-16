@@ -48,11 +48,3 @@ If necessary, the application server queries a database (like MySQL or PostgreSQ
 The application server sends the response to the web server, which returns it to the load balancer, and finally the browser receives it. The browser then renders the page to the user.
 
 ---
-
-## Diagram
-
-![HTTPS Request Flow](./https_request_flow.png)
-
-> This diagram illustrates the full path from browser to backend, including DNS, encryption, firewalls, and internal components.
-
----
