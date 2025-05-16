@@ -1,4 +1,5 @@
 # What happens when you type `https://www.google.com` and press Enter?
+![Simple Web Stack](images/1-what_happen_when_diagram.png)
 
 This document explains the flow of a web request when a user enters `https://www.google.com` in their browser and presses Enter.
 
